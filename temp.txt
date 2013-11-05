@@ -2,11 +2,10 @@
 
 
 
-This is all you need:
+Thi all youaaaaaaaaaaa need:
 
-    Right-click on your project, select Maven -> Remove Maven Nature.
-    Open you terminal, go to your project folder and do ¡°mvn eclipse:clean¡±
-    Right click on your Project and select ¡°Configure -> Convert into Maven Project¡±
+qexit
+
 
 
 3.2.0.3978	
