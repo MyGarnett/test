@@ -1,0 +1,15 @@
+公式系统使用了交易系统函数,但是公式不是交易系统公式,可能无法正常工作
+
+
+
+This is all you need:
+
+    Right-click on your project, select Maven -> Remove Maven Nature.
+    Open you terminal, go to your project folder and do “mvn eclipse:clean”
+    Right click on your Project and select “Configure -> Convert into Maven Project”
+
+
+3.2.0.3978	
+4.0.0.14931
+java.lang.ClassNotFoundException: flex.messaging.AbstractFlexSessionProvider
+
