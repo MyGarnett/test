@@ -1,7 +1,8 @@
 import java.lang.reflect.*;
 xxxxxx
 public class ReflectUtil {
-
+xxx
+change again
 	public static void reflect(String cName){
 		try{
 			Class c=Class.forName(cName);
